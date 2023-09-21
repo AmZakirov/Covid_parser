@@ -1,1 +1,3 @@
-  Загрузка статистики Covid в Бразилии с сайта [Source]([https://www.youtube.com/watch?v=1KqIw2T4qUU](https://www.nytimes.com/interactive/2021/world/brazil-covid-cases.html)https://www.nytimes.com/interactive/2021/world/brazil-covid-cases.html)
+Загрузка статистики Covid в Бразилии с сайта 
+
+[Nytimes]([https://www.nytimes.com/interactive/2021/world/brazil-covid-cases.html)
